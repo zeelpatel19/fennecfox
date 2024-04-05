@@ -6,7 +6,7 @@ This App uses Youtube api from Rapid Api to get data.
 
 The users should be able to:
 
-- Users Can search for their favourite video
+- Users Can search for their favourite video and watch it
 - users can see channels, view count and, like count
 
 ### Built with
